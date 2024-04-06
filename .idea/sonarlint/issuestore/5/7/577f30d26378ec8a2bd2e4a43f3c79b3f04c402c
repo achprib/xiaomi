@@ -1,0 +1,37 @@
+
+š
+java:S2293Z"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÑÓ¥üÿÿÿÿJ$b8002975-9c1e-4048-a23b-0f3fa8b4124c
+š
+java:S2293h"YReplace the type specification in this constructor call with the diamond operator ("<>").(®ú÷õşÿÿÿÿJ$37cee238-55bf-4d55-b4ca-a411de7cb009
+š
+java:S2293v"YReplace the type specification in this constructor call with the diamond operator ("<>").(êİıÂşÿÿÿÿJ$62f05dbd-9543-45c0-b3ed-b9068afd40b7
+–
+java:S2293ƒ"YReplace the type specification in this constructor call with the diamond operator ("<>").(À—’¢J$7723ca27-286d-4a63-b2ad-ef07d985e88b
+–
+java:S2293û"YReplace the type specification in this constructor call with the diamond operator ("<>").(è‰¥ğJ$7d0aff90-7f53-4e69-9e91-768a20077db2
+e
+java:S1604"(Make this anonymous inner class a lambda(Î¬¯”J$2bff3fbd-eb0f-45f0-947c-4a598de5a927
+e
+java:S1604Î"(Make this anonymous inner class a lambda(¨›Ì÷J$1d794019-988a-4a1e-bbad-eebf6b640ee5
+e
+java:S1604Á"(Make this anonymous inner class a lambda(××ß’J$d3b12989-56a9-487a-ac25-105e8a11e5ae
+—
+java:S1104Q"VMake tvModified a static final constant or non-public and provide accessors if needed.(õ‹İ‚ûÿÿÿÿJ$713216a8-c91b-48b0-a2db-c6f77f2345bc
+’
+java:S1104R"WMake ivAlertIcon a static final constant or non-public and provide accessors if needed.(íÀ©CJ$447ff3bd-72d5-4b93-9814-912fbbee4d6d
+“
+java:S1104S"WMake tvAlertDate a static final constant or non-public and provide accessors if needed.(Ä­Ü¯J$764b31dc-9476-45dd-9e65-cd607d744cdc
+™
+java:S1104T"XMake ibSetBgColor a static final constant or non-public and provide accessors if needed.(ˆâñùşÿÿÿÿJ$2490bb33-c9f8-4caf-b14b-5a959f2adde0
+”
+java:S1450ª"WRemove the "mPattern" field and declare it as a local variable in the relevant methods.(§¤øˆJ$91cc524d-caa0-431c-b2fc-d02b39c69a6a
+”
+java:S3776×"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(İ¨Á±øÿÿÿÿJ$af61105a-b8d6-44b7-a702-16120c44e215
+q
+java:S2864Ë"4Iterate over the "entrySet" instead of the "keySet".(­Ô‡ïJ$415ea1bc-ea18-4c3f-9382-ff483cfb7336
+~
+java:S1126¼"AReplace this if-then-else statement by a single return statement.(®ÎÚÉJ$94f90343-660e-4a3d-a130-40bf0381ca9c
+^
+java:S1116á"Remove this empty statement.(Åñ­õşÿÿÿÿJ$9ca7f4b6-6611-48f6-82ea-3a4660013cf1
+Š
+java:S3252ª"MUse static access with "android.text.Spanned" for "SPAN_INCLUSIVE_EXCLUSIVE".(ŸÍÃóJ$c1c92c42-60da-4c1d-b14f-60fcb7852a0a

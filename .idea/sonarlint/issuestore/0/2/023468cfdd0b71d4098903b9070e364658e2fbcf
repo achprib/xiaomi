@@ -1,0 +1,9 @@
+
+e
+java:S1604ˆ"(Make this anonymous inner class a lambda(ÉãÃ®J$38184f7b-4df0-46b6-8755-d636a498bd3d
+¦
+java:S3008"eRename this field "GTASK_SYNC_NOTIFICATION_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëíÅÍúÿÿÿÿJ$5ca696c8-8355-4fb1-8009-75b9285df74d
+t
+java:S38787"8Remove this array creation and simply pass the elements.(‘ÀßJ$d30526e4-cc13-4188-96b2-9685cbf05b84
+s
+java:S1874U"7Remove this use of "getNotification"; it is deprecated.(şôõìJ$b27cf8de-7675-42fd-9dd9-f8e37ebe72fe

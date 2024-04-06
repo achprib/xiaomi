@@ -1,0 +1,15 @@
+
+í	java:S116ü"VRename this field "TEXT_FORMAT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—õñºJ$fefa2e2d-b463-4734-b0c2-6ad6085d571d
+è
+java:S3776È"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ú√¡ÌJ$6279cb4e-a948-4fdc-99fb-52b6b431cd5d
+é
+java:S3776°"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Ï¥ÍJ$1b0b498f-f284-470f-b9cb-874e78123ff0
+Ç
+java:S2147Å"ECombine this catch with the one at line 382, which has the same body.(ﬂù»¥J$7082e0eb-8c75-455b-a9f7-f248ee211244
+Ç
+java:S2147Æ"ECombine this catch with the one at line 428, which has the same body.(Ô≠£ƒJ$be614efc-4747-4399-a02f-05d4ce709704
+É	java:S899©"BDo something with the "boolean" value returned by "createNewFile".(–êíÕ˘ˇˇˇˇJ$3fb6aa75-9958-473c-b1d3-b2605742c868
+_
+java:S3398W"#Move this method into "TextExport".(Ö¥ãèJ$610b8ae3-2332-462e-b7aa-a4b52902495d
+e
+java:S3398í"#Move this method into "TextExport".(®‰øˇ˝ˇˇˇˇJ$2a885e0c-0ea0-4986-b36d-1e7e776b0fcd

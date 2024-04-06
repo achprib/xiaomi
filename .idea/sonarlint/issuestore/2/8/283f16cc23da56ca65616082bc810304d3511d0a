@@ -1,0 +1,39 @@
+
+š
+java:S2293>"YReplace the type specification in this constructor call with the diamond operator ("<>").(àÉ™âùÿÿÿÿJ$b27489c5-46c8-4715-aaa6-d1566eb89563
+–
+java:S2293”"YReplace the type specification in this constructor call with the diamond operator ("<>").(œ€ÄÑJ$c058269d-759c-4a68-aa26-4c8c3a30ff1d
+–
+java:S2293©"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾ÈªJ$e1f56c38-a5af-40c6-b1c3-425ed05c9ff4
+q
+java:S1066‡"/Merge this if statement with the enclosing one.(ßÚ§µúÿÿÿÿJ$0c964452-bc64-4fa7-9e1f-234efac5934e
+¯
+java:S1319“"mThe return type of this method should be an interface such as "Set" rather than the implementation "HashSet".(“ŸóßûÿÿÿÿJ$2aa60a07-c28b-4faf-a319-7a55dfd6e9f4
+¯
+java:S1319¨"mThe return type of this method should be an interface such as "Set" rather than the implementation "HashSet".(•ÑòóıÿÿÿÿJ$42324501-1b42-4ec6-9876-0b70e5c7352e
+•
+java:S11041"TMake widgetId a static final constant or non-public and provide accessors if needed.(ëÁøŸşÿÿÿÿJ$f1a03beb-285e-4185-9e18-8eb970b4e613
+—
+java:S11042"VMake widgetType a static final constant or non-public and provide accessors if needed.(ˆİ€üÿÿÿÿJ$04614981-36e3-4989-ab04-fcc7ac675165
+j
+java:S5411–"(Use a primitive boolean expression here.(É¯ÀĞüÿÿÿÿJ$73e6d983-1fda-4bd6-ba97-c7eb258b4f38
+j
+java:S5411«"(Use a primitive boolean expression here.(É¯ÀĞüÿÿÿÿJ$99ce48e0-5c28-47ef-84f9-1c164eba3620
+j
+java:S5411É"(Use a primitive boolean expression here.( „Œ¢ùÿÿÿÿJ$2cb1ea3b-c6d9-4d7e-941b-3e857f6bf026
+]
+java:S11165"Remove this empty statement.(Åñ­õşÿÿÿÿJ$a2252bcf-700b-4a76-94d6-2492c3407d70
+j
+java:S1874=".Remove this use of "<init>"; it is deprecated.(ÌÖçüJ$b2898ec0-9e9f-48fd-9d7c-7da102725c88
+q
+java:S2864•"4Iterate over the "entrySet" instead of the "keySet".(à¨·âJ$09409617-f62d-4d97-b503-28c4f608aff3
+i
+java:S1125–"'Remove the unnecessary boolean literal.(É¯ÀĞüÿÿÿÿJ$37773f23-10a2-485c-8369-3dc2dbd75437
+q
+java:S2864ª"4Iterate over the "entrySet" instead of the "keySet".(à¨·âJ$c4215ae0-723f-4ef0-a927-3f647e88a7f7
+i
+java:S1125«"'Remove the unnecessary boolean literal.(É¯ÀĞüÿÿÿÿJ$e5da7eac-0838-470b-94f8-a50b2f59bf78
+h
+java:S1168µ"+Return an empty collection instead of null.(¥¹ïJ$86354477-1f60-4162-b159-308bcd41ad3a
+i
+java:S1125É"'Remove the unnecessary boolean literal.( „Œ¢ùÿÿÿÿJ$26553496-d8db-41c5-9db5-f7a1009235df

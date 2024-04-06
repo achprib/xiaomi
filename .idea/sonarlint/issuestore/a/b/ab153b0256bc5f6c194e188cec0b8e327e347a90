@@ -1,0 +1,41 @@
+
+•
+java:S2293q"YReplace the type specification in this constructor call with the diamond operator ("<>").(²¿›J$17cf2df8-357b-4132-8aeb-6344ed70aa73
+š
+java:S2293r"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘´ÂŞşÿÿÿÿJ$007ff543-85ce-4108-abf8-99b955c5945b
+š
+java:S2293s"YReplace the type specification in this constructor call with the diamond operator ("<>").(±€šˆşÿÿÿÿJ$6f207ba0-448a-4c54-8dc9-266471f1ede0
+•
+java:S2293u"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÈüùÌJ$c47a76be-4e5d-400d-b9e5-3d89a536b7b9
+š
+java:S2293v"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğˆâ³ùÿÿÿÿJ$76a05777-c94e-48fa-a072-71f3c3f29cfe
+š
+java:S2293w"YReplace the type specification in this constructor call with the diamond operator ("<>").(’»ĞıÿÿÿÿJ$a025d941-dc3d-40ac-9b67-866b1ee2df9a
+ƒ
+java:S1192ç"FDefine a constant instead of duplicating this literal " DESC" 3 times.(©ÍÔ±J$186a04c5-6007-424d-8413-062f2a5610c7
+q
+java:S1066±"/Merge this if statement with the enclosing one.(¾¶†–şÿÿÿÿJ$bf692b56-b585-4e3f-910c-56e6ce82a3a8
+q
+java:S1066’"/Merge this if statement with the enclosing one.(Ë¼Ö“ùÿÿÿÿJ$4b1e95a9-9e5d-43d0-aa6e-1dd7601a866e
+
+java:S3776Ü"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(«Ã¾áJ$e244704f-aff8-4554-a873-9343b5055f8c
+o
+java:S1905õ"-Remove this unnecessary cast to "JSONObject".(ï½€—ıÿÿÿÿJ$9d2a65a5-12fe-4347-812a-ef3f0327df46
+i
+java:S1905œ"-Remove this unnecessary cast to "JSONObject".(Ø›¶J$95f94ec3-2243-42f9-8fab-8cbd8d4518e3
+
+java:S3776¸"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ğúæŠJ$50e69a85-1f36-4084-913d-b3cf4f8e4e59
+”
+java:S3776¦"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(…Ë°±ıÿÿÿÿJ$e2a8257b-b3c7-4811-bfca-3780ca912bcb
+”
+java:S3776å"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(ÿ»É¸ûÿÿÿÿJ$080bfe48-8797-4e04-8f6d-4022521ddaea
+[
+java:S2129Ä"Remove this "Long" constructor(Ï­¨ÃJ$aa80b7d1-433e-4954-b9a4-223a908140e8
+”
+java:S3776×"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Æ¶Ø üÿÿÿÿJ$6a00bbd4-dc54-4d38-870a-f5aeab8ee7f3
+m
+java:S1172×"+Remove this unused method parameter "node".(Æ¶Ø üÿÿÿÿJ$5cc35e9e-9885-4cec-b1a5-b57eea9580d6
+i
+java:S1905í"'Remove this unnecessary cast to "Node".(±¼ÇÒûÿÿÿÿJ$8670881d-f9d6-42d3-aa2b-45f63815199f
+d
+java:S1905”"'Remove this unnecessary cast to "Node".(íé¥ÇJ$64361dd7-b271-49c1-be47-5381dee86484

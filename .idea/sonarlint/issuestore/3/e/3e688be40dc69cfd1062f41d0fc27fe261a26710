@@ -1,0 +1,11 @@
+
+
+java:S1301¢"KReplace this "switch" statement by "if" statements to increase readability.(öÛ«°şÿÿÿÿJ$f9a58ad5-aa2a-4246-bb0c-34e5730a64d2
+n
+java:S1874k"2Remove this use of "isScreenOn"; it is deprecated.(¤® ²J$58ec29c8-062d-4277-9c64-58cf711851ed
+‡
+java:S2147…"ECombine this catch with the one at line 131, which has the same body.(ÿëÛßúÿÿÿÿJ$bfe17060-f260-4d12-b600-99acb8d90529
+‚
+java:S2147‡"ECombine this catch with the one at line 133, which has the same body.(‚ùïÄJ$edbd504c-6c54-4e17-8339-5302b0f1de5e
+‚
+java:S2147‰"ECombine this catch with the one at line 135, which has the same body.(ï­£ÄJ$191b3adf-d5aa-4554-9973-e46a5ba332f0

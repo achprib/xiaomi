@@ -1,0 +1,13 @@
+
+›
+java:S2293‘"YReplace the type specification in this constructor call with the diamond operator ("<>").(áºÐ»ûÿÿÿÿJ$2fcd8c1d-a99a-43ff-8403-1064c3f24b25
+”
+java:S1192E"SDefine a constant instead of duplicating this literal "é”™è¯¯çš„ç¬”è®°ID:" 3 times.(³ÿÓãýÿÿÿÿJ$02b48270-ec01-42da-9210-572bb7497002
+ƒ
+java:S1126¬"AReplace this if-then-else statement by a single return statement.(Æ·¾ôúÿÿÿÿJ$0acfee5d-2b35-4ac1-937d-931c4f495015
+
+java:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¤§²J$b990b309-d51e-4909-bc96-25e5a861fd23
+{
+java:S1155À">Use isEmpty() to check whether the collection is empty or not.(”¥ŠÉJ$8e03dd6c-963a-452f-aa99-bbcd5ad3d590
+‚
+java:S2147É"ECombine this catch with the one at line 326, which has the same body.(æš©›J$282eba41-4692-4c5e-a331-b6804510d42f

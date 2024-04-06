@@ -1,0 +1,13 @@
+
+
+java:S1192“"MDefine a constant instead of duplicating this literal "Unknown URI " 4 times.(¶ª¦şüÿÿÿÿJ$2da05deb-2e84-4cda-a73c-a84832504dd0
+s
+java:S1153Ë"1Directly append the argument of String.valueOf().(œËß¦ıÿÿÿÿJ$ebe1cee8-9552-463f-a650-250e3c8dd15a
+¦
+java:S3008@"eRename this field "NOTES_SNIPPET_SEARCH_QUERY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈòƒùÿÿÿÿJ$175c634f-4e8b-4ffa-b165-b1f7c4489a1d
+…
+java:S1659¦"CDeclare "noteId" and all following declarations on a separate line.(ŸàØ˜øÿÿÿÿJ$9425d248-720a-466f-8f9f-af0f72cfbd25
+z
+java:S2130Ü"8Use "Long.parseLong" for this string-to-long conversion.(•ãÿ¬ÿÿÿÿÿJ$700d3b57-1833-4e31-ac38-c7a869f110ec
+t
+java:S1135â"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿJ$7ef522aa-d22f-47fc-aca0-bf6346281553

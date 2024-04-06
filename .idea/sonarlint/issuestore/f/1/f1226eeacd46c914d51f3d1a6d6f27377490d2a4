@@ -1,0 +1,29 @@
+
+š
+java:S2293{"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ“…üÿÿÿÿJ$a8447210-e32d-4d76-8aee-88f43d80b0c9
+›
+java:S2293‰"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ“…üÿÿÿÿJ$93241862-6d94-4e70-a7a1-8d9115bf1918
+›
+java:S2293š"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ“…üÿÿÿÿJ$876ba440-e3a1-425e-a84c-1e5e99e78a91
+X
+java:S2386+"Make this member "protected".(êİĞuJ$6b7c69d7-4bb0-413c-856e-69700c0bb31a
+”
+java:S3776ï"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(¸ŸêÉıÿÿÿÿJ$155a7453-990c-40f5-a57f-f830ebae5526
+
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ë®ÆJ$bc5cace5-2cb5-4de7-800a-6a9909a46530
+j
+java:S1068P".Remove this unused "mAlertDate" private field.(©àÕJ$e3fb659f-a3a5-4591-8689-03116f63ed2a
+j
+java:S1068Q".Remove this unused "mBgColorId" private field.(£ßŒÑJ$99efd9cf-05c5-4124-a3c4-aaf8d10876ae
+l
+java:S1068R"0Remove this unused "mCreatedDate" private field.(©­ÏJ$39e82d60-dbbf-4702-bdbc-bc1b7da6d75d
+n
+java:S1068S"2Remove this unused "mHasAttachment" private field.(°÷ŞÍJ$bfba7df1-1f01-4017-9832-54751124a14c
+r
+java:S1068T"1Remove this unused "mModifiedDate" private field.(§‚¿½ùÿÿÿÿJ$0725cd01-3e46-40e0-ba63-280f2ff1d7dd
+n
+java:S1068X"-Remove this unused "mWidgetId" private field.(‡µ˜œüÿÿÿÿJ$82838a4e-b719-4ad5-b6e2-186b4713a806
+p
+java:S1068Y"/Remove this unused "mWidgetType" private field.(­‚î£ÿÿÿÿÿJ$ac8ad6f3-ace8-4d01-9896-f7695466d4e2
+m
+java:S1068Z"1Remove this unused "mOriginParent" private field.(Ø•ˆ¶J$8f2fee67-f9b9-4225-9e7d-5c0be20e20e4

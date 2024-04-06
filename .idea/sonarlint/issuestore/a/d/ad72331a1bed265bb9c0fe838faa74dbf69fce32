@@ -1,0 +1,63 @@
+
+–
+java:S2293Ì"YReplace the type specification in this constructor call with the diamond operator ("<>").(è‰¥ğJ$410b9937-6513-4585-9adb-c92eb4975a5e
+d
+java:S1604×"(Make this anonymous inner class a lambda(—ÌºVJ$5ba847f4-b1fa-4837-9a09-063c0a927e0b
+e
+java:S1604Æ"(Make this anonymous inner class a lambda(Î¬¯”J$e06fa2e4-244e-45d5-bf39-149b572e54d1
+e
+java:S1604ã"(Make this anonymous inner class a lambda(¿Ü´ãJ$b569ce74-4bf3-4968-939a-f161fff19614
+j
+java:S1604Ñ"(Make this anonymous inner class a lambda(ˆĞïøÿÿÿÿJ$65605797-2d63-4bbc-a44e-cf7ffe024652
+e
+java:S1604Ù"(Make this anonymous inner class a lambda(øÄì‡J$91b08295-e382-45d6-9c74-fb32f7550a1b
+e
+java:S1604Ô"(Make this anonymous inner class a lambda(Û±¼ J$7b368ca8-6491-4506-a09d-61cd5e03ee2c
+e
+java:S1604…"(Make this anonymous inner class a lambda(Î¬¯”J$54f0d0b3-1085-4e1f-b89b-4e7d88840ba4
+
+java:S1301—"KReplace this "switch" statement by "if" statements to increase readability.(×“¾ñùÿÿÿÿJ$da3b7c35-52b5-48d9-9311-95bc56e6fd3d
+]
+java:S1116i"Remove this empty statement.(Åñ­õşÿÿÿÿJ$47db22b6-ee12-4dc1-a4a3-5e8920566ae4
+‡
+java:S1124¢"EReorder the modifiers to comply with the Java Language Specification.(¹úæµûÿÿÿÿJ$67945f36-43a1-41cb-bfcc-17767da3c0bb
+
+java:S1124¤"EReorder the modifiers to comply with the Java Language Specification.(ìÑ¾kJ$4619b885-2c70-4e71-834c-fb7e8110f719
+”
+java:S3776Ì"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(áé–ŞÿÿÿÿÿJ$01ba8f11-f506-43c4-a25c-7a2ff7abf57a
+X
+java:S3626â"Remove this redundant jump.(ûÁİ…J$fc5fb42e-25ed-497c-ab11-06dcc7a1cf9c
+X
+java:S3626æ"Remove this redundant jump.(ûÁİ…J$c9002ef2-acb0-4617-8859-c3e781b4424c
+X
+java:S3626ı"Remove this redundant jump.(ûÁİ…J$b12f24b8-c48b-4110-b9dc-086493f25764
+l
+java:S2093Ó"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿJ$ca59e097-605a-4cf8-888b-ec61eef63d0f
+š
+java:S1450²"XRemove the "mMoveMenu" field and declare it as a local variable in the relevant methods.(ÕÊäñúÿÿÿÿJ$82313d33-dd2d-40aa-9ae9-c369f9fafd56
+”
+java:S3252¯"RUse static access with "android.widget.AbsListView" for "MultiChoiceModeListener".(¦Ûî„úÿÿÿÿJ$30c65fa5-0769-438e-ac8d-5199b4bb9bf0
+t
+java:S1135ÿ"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿJ$e67e9b0d-d9c1-4a4d-a311-271bb487f34e
+t
+java:S1135‹"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿJ$997c1521-fb29-4ee6-ad53-525b56fe2c6c
+s
+java:S1874í"1Remove this use of "getHeight"; it is deprecated.(·¡ªÃıÿÿÿÿJ$1ea71714-c729-4dcf-8187-598d1d08ab02
+^
+java:S1116Ÿ"Remove this empty statement.(Åñ­õşÿÿÿÿJ$c3946757-6b2c-4ed7-a1d2-02fd80e833b8
+
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ãìîíJ$1aaa177d-8f79-47eb-90d5-656ebe727b20
+
+java:S3776º"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÅôÉ#J$1f62fab3-b8da-4355-81ab-86948339474f
+„
+java:S1126…"BReplace this if-then-else statement by a single method invocation.(Ã¼ïõÿÿÿÿÿJ$e9beb155-6ddc-4b8b-80af-0298a2edb3da
+
+java:S3776¤	"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ôŒùbJ$6b9f14cf-661c-441b-8d3b-a48d0edb7080
+m
+java:S3398ë"0Move this method into "OnListItemClickListener".(‘ğğ¡J$09071fa8-c41b-42ef-814c-41cb8def1d70
+b
+java:S3398"%Move this method into "ModeCallback".(ãìîíJ$1844e1f6-05d0-45ba-bd82-12c4f53de3ae
+g
+java:S3398Ñ	"%Move this method into "ModeCallback".(“ğÉçıÿÿÿÿJ$f6387ce9-fff6-45c1-9af5-5ccfd67cfd78
+q
+java:S3398Ş"/Move this method into "BackgroundQueryHandler".(—÷õüÿÿÿÿJ$b5b7dfc4-361f-4418-927b-e1b7ebe8023f

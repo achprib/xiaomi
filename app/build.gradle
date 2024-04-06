@@ -1,0 +1,39 @@
+apply plugin: 'com.android.application'
+
+ext {
+    compileSdkVersion = 21
+    defaultTargetSdkVersion = 21
+}
+
+android {
+    compileSdk 21
+    buildToolsVersion "34.0.0"
+    useLibrary 'org.apache.http.legacy'
+    defaultConfig {
+        applicationId "net.micode.notes"
+        minSdk 21
+        targetSdkVersion defaultTargetSdkVersion
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+    }
+    namespace 'net.micode.notes'
+}
+sonarqube {
+    properties {
+        property "sonar.host.url", "http://localhost:9000"
+        property "sonar.login", "admin"
+        property "sonar.password", "admin"
+        property "sonar.sourceEncoding", "UTF-8"
+        property "sonar.projectKey", "com.wbb.sonarqubedemo"
+        property "sonar.projectName", "sonarqubedemo"
+        property "sonar.sources", "src/main/java"
+    }
+}

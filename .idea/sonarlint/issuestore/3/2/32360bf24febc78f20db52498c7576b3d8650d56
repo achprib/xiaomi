@@ -1,0 +1,31 @@
+
+š
+java:S2293;"YReplace the type specification in this constructor call with the diamond operator ("<>").(áºÐ»ûÿÿÿÿJ$1c5b510f-5fc6-4712-bb76-797013958722
+š
+java:S2293u"YReplace the type specification in this constructor call with the diamond operator ("<>").(áºÐ»ûÿÿÿÿJ$2a00cb6c-be9d-41b6-b366-66e29042cacc
+›
+java:S2293•"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÛÂª¡úÿÿÿÿJ$737fad73-85a4-4cd7-b2d4-93616aa4ea8b
+ˆ
+java:S1192N"GDefine a constant instead of duplicating this literal "%s: %s" 4 times.(ÇÇ÷«ùÿÿÿÿJ$7f13edea-5bb2-4475-933d-80bd32265c01
+Š
+java:S1192—"HDefine a constant instead of duplicating this literal "=? AND " 4 times.(„¼¹úÿÿÿÿJ$d82fd75f-2c2e-4e0d-9b69-5dc34fa740e4
+q
+java:S1066"/Merge this if statement with the enclosing one.(ä²œ¼øÿÿÿÿJ$8d51f8a6-45ca-418c-958e-cc53a9edbbdb
+¯
+java:S1319‹"mThe return type of this method should be an interface such as "Set" rather than the implementation "HashSet".(ÛëÈðýÿÿÿÿJ$bc933753-46f9-4968-a5e0-d5b2978564ff
+{
+java:S1118&":Add a private constructor to hide the implicit public one.(³¡¸ÿÿÿÿÿJ$a49fc4c0-e02d-4a24-b078-0528ad6189fd
+z
+java:S11555">Use isEmpty() to check whether the collection is empty or not.(´¤”ÓJ$da634e85-d095-4af5-82ac-5b72427f2bbf
+€
+java:S2147O"DCombine this catch with the one at line 77, which has the same body.(æš©›J$b6d4baf3-54d7-4813-bd9e-7b338865cad9
+‚
+java:S2147ˆ"ECombine this catch with the one at line 134, which has the same body.(æš©›J$b4d4e3b3-6be6-4f56-ae5a-2e2e3945f7c8
+‘
+java:S3252°"OUse static access with "net.micode.notes.data.Notes$DataColumns" for "NOTE_ID".(ž“ñ§ûÿÿÿÿJ$5168290e-ae9e-468a-a565-952dec361f15
+“
+java:S3252°"QUse static access with "net.micode.notes.data.Notes$DataColumns" for "MIME_TYPE".(ž“ñ§ûÿÿÿÿJ$283bba31-6846-4699-8d63-64e916e295c3
+Œ
+java:S3252Ê"OUse static access with "net.micode.notes.data.Notes$DataColumns" for "NOTE_ID".(ýÊ¹àJ$a8d0de3a-89fd-48bd-b07d-9132912cd234
+“
+java:S3252Ë"QUse static access with "net.micode.notes.data.Notes$DataColumns" for "MIME_TYPE".(±ðŒ“úÿÿÿÿJ$f31b7ebb-ccbf-4f35-8728-236c08f9aa80
